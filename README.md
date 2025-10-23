@@ -78,7 +78,7 @@ A robust **ASP.NET MVC 5** application built with enterprise concerns in mind â€
   - AWS S3 usage for document/media storage.  
 - Created a custom stored procedure for querying using Telerik filters, improving CTARS performance by approximately 60â€“80%. 
 - Developed a module to provide additional services to the Client Story app.
-- Improved overall project performance and fixed 5000+ bugs.
+- Improved overall project performance and fixed 500+ bugs.
 
 **Tech:** ASP.NET MVC 5, C#, Entity Framework, SQL Server (SSMS), Ninject (for Dependency Injection), log4net, AWS S3, Razor Views, jQuery, Bootstrap, Telerik UI
 
